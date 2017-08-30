@@ -10,4 +10,4 @@
 ### 5.若果登入成功，會返回主頁。
 ![step5](https://github.com/lenchan139/HappyRetiredSubLoginIntroduction/blob/master/Android/Facebook/photo_2017-08-30_17-54-28.jpg?raw=true)
 ### 6.若果喺第一次註冊，會要求 閣下註冊，只需跟住填寫簡單嘅個人資料。
-![step6](https://github.com/lenchan139/HappyRetiredSubLoginIntroduction/blob/master/Android/Facebook/photo_2017-08-30_17-47-47.jpg?raw=true)
+![step6](https://github.com/lenchan139/HappyRetiredSubLoginIntroduction/blob/master/Android/Facebook/Screen%20Shot%202017-08-30%20at%207.13.45%20PM.png?raw=true)
