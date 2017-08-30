@@ -1,4 +1,4 @@
-# Google登入（Android）
+# Facebook登入（Android）
 ### 1.打開「樂活新中年」App後，撳「Facebook/Google登入」
 ![step1](https://github.com/lenchan139/HappyRetiredSubLoginIntroduction/blob/master/Android/Facebook/photo_2017-08-30_17-47-45.jpg?raw=true)
 ### 2.選擇返「Facebook登入」
